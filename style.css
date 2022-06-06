@@ -1,26 +1,21 @@
-* {
-  box-sizing: border-box;
-}
-
 nav {
   list-style-type: none;
   position: fixed;
-  background color: tan;
+  background color: pink;
   width: 100%;
   margin: 0;
   padding: 0;
   top: 0;
   left: 0;
-  height: 5px;
+  height: 15px;
 }
 
 li {
   display: inline;
-  padding: 3px;
-  margin: 5px;
+  padding: .5%;
+  margin: .5%;
   float: right;
   font-size: 120%;
-  text-decoration: bold;
 }
 
 a{
