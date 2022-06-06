@@ -1,15 +1,35 @@
-<!DOCTYPE html> 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <center>
-  <h1> Code.org Projects </h1>
-   <br> <iframe width="392" height="620" style="border: 0px;" top: "150px;" src="https://studio.code.org/projects/applab/-41bWjB5js6ZMJgQu4OJb28ZsPnOVxvAsyCSelwrqTw/embed"></br>
-  <br> <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/l_W0oMncxof-sNSS6xF_Den_ceMwQf2v_GFiiXyHZoA/embed"></br>
-</html>
-  
+nav {
+  list-style-type: none;
+  position: fixed;
+  background color: tan;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+  height: 5px;
+}
+
+li {
+  display: inline;
+  padding: 3px;
+  margin: 5px;
+  float: right;
+  font-size: 120%;
+  text-decoration: bold;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+  font-size: 120%;
+}
+
+li a:hover{
+  background-color: white;
+  font-size: 25px;
+}
+
+img{
+  border: dashed pink 5px; 
+}
