@@ -1,7 +1,7 @@
 nav {
   list-style-type: none;
   position: fixed;
-  background color: pink;
+  background-color: #f8edeb;
   width: 100%;
   margin: 0;
   padding: 0;
@@ -20,15 +20,26 @@ li {
 
 a{
   color: black;
-  text-decoration: none;
+  text-decoration: bold;
   font-size: 120%;
 }
 
 li a:hover{
-  background-color: white;
+  background-color: #f8edeb;
   font-size: 25px;
 }
 
 img{
   border: dashed pink 5px; 
 }
+
+h1{
+  color: black;
+    font-size: 220%;
+}
+
+h2{
+  color: #ffb5a7;
+    font-size: 120%;
+}
+
