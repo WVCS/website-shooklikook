@@ -1,7 +1,7 @@
 nav {
   list-style-type: none;
   position: fixed;
-  background-color: #f8edeb;
+  background-color: #f9dcc4;
   width: 100%;
   margin: 0;
   padding: 0;
@@ -42,4 +42,5 @@ h2{
   color: #ffb5a7;
     font-size: 120%;
 }
+
 
